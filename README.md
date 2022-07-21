@@ -4,7 +4,7 @@
 
 A React application that renders beautiful, customisable tweets by fetching and aggregating data from the Twitter API.
 
-![Decorate](documentation/decorate.jpg)
+![Decorate](documentation/decorate.jpeg)
 
 ## Description
 
